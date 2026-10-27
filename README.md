@@ -48,10 +48,6 @@ Building software, exploring data, and solving problems through technology.
 
 Software project focused on restaurant operations, database design, and application architecture.
 
-📌 **Group Web Project**
-
-Collaborative development using Git and GitHub for version control.
-
 📌 **Systems & Database Projects**
 
 Academic projects involving SQL, data management, and information systems.
