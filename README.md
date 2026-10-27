@@ -15,7 +15,7 @@ Building software, exploring data, and solving problems through technology.
 
 ## `> whoami`
 
-🎓 Systems Engineering student from Peru.
+🎓 Systems Engineering student
 
 💻 Interested in software development, databases, and information systems.
 
