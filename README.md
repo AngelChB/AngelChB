@@ -1,69 +1,178 @@
 
+<!-- ============================================ -->
+<!--         GITHUB PROFILE - ANGELCHB             -->
+<!-- ============================================ -->
+
 <div align="center">
 
-# Angel Chunga 👨‍💻
+# 👋 ¡Hola! Soy Angel
 
-### Systems Engineering Student | Software Development
+### 🎓 Estudiante de Ingeniería de Sistemas
 
-Building software, exploring data, and solving problems through technology.
+**Desarrollo de Software | Bases de Datos | Análisis de Sistemas**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/AngelChB)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Bienvenido+a+mi+perfil+de+GitHub;Estudiante+de+Ingenieria+de+Sistemas;Apasionado+por+la+tecnologia;Aprendiendo+y+desarrollando+soluciones" alt="Presentación animada" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=AngelChB&label=Visitas+al+perfil&color=0969da&style=for-the-badge" alt="Visitas al perfil"/>
 
 </div>
 
 ---
 
-## `> whoami`
+## 👨‍💻 Sobre mí
 
-🎓 Systems Engineering student
+Soy estudiante de **Ingeniería de Sistemas**, interesado en el desarrollo de software, la gestión de bases de datos y el análisis de sistemas informáticos.
 
-💻 Interested in software development, databases, and information systems.
+Me interesa comprender cómo funcionan los sistemas tecnológicos y desarrollar soluciones que permitan optimizar procesos y resolver problemas reales.
 
-🛠️ Learning by building academic and practical projects.
+- 🎓 Formación en Ingeniería de Sistemas.
+- 💻 Interés en desarrollo de software.
+- 🗄️ Aprendiendo sobre bases de datos y SQL.
+- ⚙️ Interés en análisis y diseño de sistemas.
+- 📚 En constante aprendizaje de nuevas tecnologías.
+- 🚀 Objetivo: crecer profesionalmente en el sector tecnológico.
 
-🎯 Focused on software engineering and continuous improvement.
+---
 
-## `> tech-stack`
+## 🛠️ Tecnologías y herramientas
 
-**Languages & Backend**
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+### 💻 Lenguajes de programación
 
-**Frontend & Database**
+<img src="https://skillicons.dev/icons?i=cpp,c&theme=dark" alt="C++ y C"/>
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=databricks&logoColor=white)
+### 🗄️ Bases de datos
 
-**Tools**
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<br>
 
-## `> featured-projects`
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-📌 **Restaurant Management System**
+### 🔧 Herramientas de desarrollo
 
-Software project focused on restaurant operations, database design, and application architecture.
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" alt="Herramientas de desarrollo"/>
 
-📌 **Systems & Database Projects**
+### 🌐 Tecnologías web
 
-Academic projects involving SQL, data management, and information systems.
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Tecnologías web"/>
 
-## `> currently`
+</div>
 
-- Improving my software development skills.
-- Learning through practical projects.
-- Exploring databases and systems analysis.
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AngelChB&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Estadísticas de GitHub"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelChB&layout=compact&theme=github_dark&hide_border=true" alt="Lenguajes más utilizados"/>
+
+<br>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=AngelChB&theme=github-dark-blue&hide_border=true" alt="Racha de contribuciones"/>
+
+</div>
+
+---
+
+## 📈 Actividad de contribuciones
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AngelChB&theme=github-compact&hide_border=true&area=true" width="95%" alt="Gráfico de actividad"/>
+
+</div>
+
+---
+
+## 📂 Proyectos destacados
+
+<div align="center">
+
+<a href="https://github.com/AngelChB?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORAR_MIS_PROYECTOS-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorios"/>
+</a>
+
+</div>
+
+### 🚀 Áreas de desarrollo
+
+| Área | Descripción |
+|------|-------------|
+| 💻 Desarrollo de software | Construcción de aplicaciones y soluciones informáticas. |
+| 🗄️ Bases de datos | Diseño, consultas y administración de datos. |
+| ⚙️ Ingeniería de software | Análisis, modelado y diseño de sistemas. |
+| 🌐 Desarrollo web | Creación y aprendizaje de aplicaciones web. |
+| 🔐 Ciberseguridad | Interés en seguridad de sistemas y aplicaciones. |
+
+---
+
+## 🎯 Objetivos profesionales
+
+- Fortalecer mis conocimientos en programación.
+- Desarrollar proyectos de software completos.
+- Mejorar mis habilidades en bases de datos.
+- Aplicar buenas prácticas de ingeniería de software.
+- Aprender sobre arquitectura y seguridad de sistemas.
+- Participar en proyectos tecnológicos colaborativos.
+
+---
+
+## 📚 Actualmente aprendiendo
+
+```text
+Ingeniería de Sistemas
+│
+├── Desarrollo de Software
+│   ├── Programación
+│   ├── Algoritmos
+│   └── Estructuras de Datos
+│
+├── Bases de Datos
+│   ├── SQL
+│   ├── Modelado de Datos
+│   └── Administración de BD
+│
+├── Ingeniería de Software
+│   ├── Análisis de Sistemas
+│   ├── UML
+│   └── Diseño de Software
+│
+└── Tecnologías
+    ├── Git y GitHub
+    ├── Desarrollo Web
+    └── Ciberseguridad
+```
+
+---
+
+## 🤝 Conecta conmigo
+
+<div align="center">
+
+<a href="https://github.com/AngelChB">
+  <img src="https://img.shields.io/badge/GitHub-AngelChB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br><br>
+
+**💡 La tecnología transforma ideas en soluciones.**
+
+**🚀 Aprendiendo, desarrollando y mejorando cada día.**
+
+</div>
 
 ---
 
 <div align="center">
 
-### `while (learning) { keepBuilding(); }`
+⭐ **Gracias por visitar mi perfil**
 
-*Learn • Build • Improve*
+<sub>Diseñado con 💙 | Ingeniería de Sistemas | AngelChB</sub>
 
 </div>
